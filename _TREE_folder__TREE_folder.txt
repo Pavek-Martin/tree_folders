@@ -1,0 +1,21 @@
+22.10.2024 
+03:59
+Folder PATH listing for volume Hdd
+Volume serial number is 00000034 3A4E:C597
+C:\USERS\DELL\DOCUMENTS\PS1\_TREE_FOLDER
+|   _TREE - kopie.bat
+|   _TREE.bat
+|   _TREE_folder.exe
+|   _TREE_folder.ps1
+|   _TREE_folder__TREE_folder.txt
+|   
+\---old
+        Untitled1.ps1
+        Untitled2.ps1
+        Untitled3.ps1
+        Untitled4.ps1
+        Untitled5.ps1
+        Untitled6.ps1
+        Untitled7.ps1
+        _TREE_folder.ps1
+        
